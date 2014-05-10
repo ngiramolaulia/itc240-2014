@@ -1,2 +1,2 @@
 <?php
-$buckets_password = "469193";
+$buckets_password = "xxxxxx";

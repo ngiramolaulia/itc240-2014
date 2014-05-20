@@ -1,0 +1,1 @@
+<!doctype html><head><meta charset="utf-8"><title>Receipts</title><style>a {text-decoration:none;color:white;background:#395FB2;margin-top:20px;margin-left:10px;border:1px solid black;padding:5px;}</style></head><html><body><a href="index.php">click here to view receipts</a><div class="list"></div></body></html>
